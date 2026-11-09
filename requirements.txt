@@ -1,0 +1,6 @@
+numpy
+pillow
+transformers
+torch
+jupyter
+ipykernel
